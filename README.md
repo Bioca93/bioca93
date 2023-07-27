@@ -14,14 +14,14 @@ I have many ideas and ambitions, I just need your help to put them into practice
 
 <div>
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bioca93&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bioca93&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
   />
-     <img height="125px" src="https://github-readme-stats.vercel.app/api?username=bioca93&show_icons=true" /> 
+     <img height="125px" src="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true" /> 
 </div>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioca93&layout=compact)
