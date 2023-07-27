@@ -24,7 +24,7 @@ I have many ideas and ambitions, I just need your help to put them into practice
      <img height="125px" src="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true" /> 
 </div>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioca93&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioca93&layout=compact)](https://github.com/Bioca93/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bioca-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
