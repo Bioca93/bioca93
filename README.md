@@ -12,28 +12,27 @@ I have many ideas and ambitions, I just need your help to put them into practice
 - 🏡 Lisbon / Odivelas
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true&theme=dark"
+<div>
+<source
+    srcset="https://github-readme-stats.vercel.app/api?username=bioca93&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=bioca93&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true" />
-</picture>
+     <img height="125px" src="https://github-readme-stats.vercel.app/api?username=bioca93&show_icons=true" /> 
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioca93&layout=compact)
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioca93&layout=compact)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bioca-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bioca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bioca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bioca-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Bioca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <!-- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+  <img align="center" alt="Bioca-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Bioca-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bioca-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bioca-Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bioca-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <!-- <img align="center" alt="Rafa-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   
 </div>
   
