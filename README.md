@@ -40,7 +40,7 @@ I have many ideas and ambitions, I just need your help to put them into practice
   
   ##
  
-<div> 
+<div>
     <h1>Social Media: </h1>
   <a href="https://www.linkedin.com/in/beatriz-ressurreicao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bea_jrr_93@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -48,9 +48,6 @@ I have many ideas and ambitions, I just need your help to put them into practice
 
 
   ![Snake animation](https://github.com/Bioca93/Bioca93/blob/output/github-contribution-grid-snake.svg)
-
- 
- 
   
 </div>
 
