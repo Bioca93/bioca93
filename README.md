@@ -41,7 +41,7 @@ I have many ideas and ambitions, I just need your help to put them into practice
   ##
  
 <div> 
-    <h1 align="center">Social Media: </h1>
+    <h1>Social Media: </h1>
   <a href="https://www.linkedin.com/in/beatriz-ressurreicao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bea_jrr_93@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bioca_ressurreicao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
