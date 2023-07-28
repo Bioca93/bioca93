@@ -25,20 +25,23 @@ I have many ideas and ambitions, I just need your help to put them into practice
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioca93&layout=compact)](https://github.com/Bioca93/github-readme-stats) -->
-
+<div align="center">
 <div style="display: inline_block"><br>
+    <h1 align="center">My Tecnologies: </h1>
   <img align="center" alt="Bioca-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Bioca-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bioca-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bioca-Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Bioca-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <!-- <img align="center" alt="Rafa-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+ </div>
   
 </div>
   
   ##
  
 <div> 
+    <h1 align="center">Social Media: </h1>
   <a href="https://www.linkedin.com/in/beatriz-ressurreicao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bea_jrr_93@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bioca_ressurreicao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
