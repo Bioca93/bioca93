@@ -1,9 +1,5 @@
 ### Hi 👀👀 
 
-</div><p>
-    <a href="https://giphy.com/gifs/HBOMax-hbomax-summer-camp-island-summercampislandonhbomax-X6LjRISkiiUvkf6Mzc"></a>
-</p>
-
 I'm a Full Stack Developer 👩‍💻 with degree in nurse. 
 Throughout my life, I have always been interested in technology, so I decided to change my career.
 Syringes 💉 gave way to a fancy, colorful keyboard, and suddenly, I'm embarking on this new journey of becoming a better and better software developer. 
