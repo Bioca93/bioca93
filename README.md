@@ -11,20 +11,6 @@ I have many ideas and ambitions, I just need your help to put them into practice
 
 - 🏡 Lisbon / Odivelas
 
-
-<!-- <div>
-<source
-    srcset="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
-  />
-     <img height="125px" src="https://github-readme-stats.vercel.app/api?username=Bioca93&show_icons=true" /> 
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioca93&layout=compact)](https://github.com/Bioca93/github-readme-stats) -->
 <div align="center">
 <div style="display: inline_block"><br>
     <h1 align="center">Languages and Tools: </h1>
@@ -48,8 +34,8 @@ I have many ideas and ambitions, I just need your help to put them into practice
     &nbsp;
   <a href="https://www.instagram.com/bioca_ressurreicao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+<!--
+<h3 align="left">Support:</h3>
 
-  ![Snake animation](https://github.com/Bioca93/Bioca93/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bioca93&show_icons=true&locale=en&layout=compact" alt="Bioca93" /></p> -->
 
