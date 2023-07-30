@@ -34,8 +34,8 @@ I have many ideas and ambitions, I just need your help to put them into practice
     &nbsp;
   <a href="https://www.instagram.com/bioca_ressurreicao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<!--
+
 <h3 align="left">Support:</h3>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bioca93&show_icons=true&locale=en&layout=compact" alt="Bioca93" /></p> -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bioca93&show_icons=true&locale=en&layout=compact" alt="Bioca93" /></p> 
 
